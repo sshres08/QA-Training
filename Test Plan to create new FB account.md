@@ -18,21 +18,28 @@ Test Plan to Create new account
 	- Integration
 	- System
 	- Acceptance
-	3.2 Types of testing
+	
+ 3.2 Types of testing
 	- Functional Testing (Smoke,  Regression, Alpha, Beta)
 	- Non Functional (Performance, Security, Compatibility, Usability Test)
-	3.3 Test Design
+	
+ 3.3 Test Design
 	- Manual Testing from HP ALM
 	- Automation testing with Selenium
-	3.4 Configuration management
+	
+ 3.4 Configuration management
 	- Version management using Github
-	3.5 Test Metrics
+	
+ 3.5 Test Metrics
 	- Traceability Metrics
-	3.6 Terminology
+	
+ 3.6 Terminology
 	- Standard terminology used. Example: UI, valid information, invalid information input
-	3.7 Automation Plan
+	
+ 3.7 Automation Plan
 	- Automotive repetitive test cases such as successful account creation after putting in all the required information using Selenium Web Drive
-	3.8 Automated Tool
+	
+ 3.8 Automated Tool
 	- Selenium Web Drive
 	-HP ALM
 
