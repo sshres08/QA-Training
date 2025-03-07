@@ -12,7 +12,8 @@ Test Plan to Create new account
 	-Login in page, Profile settings, Facebook page UI
 
 3.	Test Strategy
-	3.1 Level of Testing
+	
+ 3.1 Level of Testing
 	-Unit
 	- Integration
 	- System
