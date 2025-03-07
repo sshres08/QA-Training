@@ -11,6 +11,7 @@ Test Plan to Create new account
 	2.2 Out of Scope/ Feature not to be tested
 	-Login in page, Profile settings, Facebook page UI
 
+
 3.	Test Strategy
 	
  3.1 Level of Testing
