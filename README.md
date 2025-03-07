@@ -86,4 +86,4 @@ Training for Selenium, HP ALM, Web drive will be provided to the testing team pr
 12. Approval Information
 - QA Team Lead
 - Project Manager
-![image](https://github.com/user-attachments/assets/6d601454-65d3-41b8-a2c6-87123ab249f5)
+![image](https://github.com/user-attachments/assets/132c937a-46c4-4599-868d-f42964b9f36f)
