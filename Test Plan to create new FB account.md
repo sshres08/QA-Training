@@ -82,18 +82,24 @@ Test Plan to Create new account
 Training for Selenium, HP ALM, Web drive will be provided to the testing team prior to the project
 
  10.	Risk and Contingencies
-	10.1 Risk 
+	
+ 10.1 Risk 
 	- Server down
 	- Delay in Test script approval
 	- Unavailability of resources
+
 10.2 Contingencies
 	- Progress report daily to Project Manager and PM’s intervention if delay in approval
 	- Utilize DEV/ QA/ Staging  environment in case Server is down
+
+
 
 12. Assumption
 	- Account creation page  requirement is completed and approved before moving on to testing
 	- Test script is ready to perform the testing 
 	- Test environment is stable throughout the project
+
+
 
 13. Approval Information
 - QA Team Lead
