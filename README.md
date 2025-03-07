@@ -3,6 +3,7 @@ Test Plan to Create new account
 	Users can successfully create a new Facebook account by inputting required information (name, valid email, phone number, password, date of birth, gender) 
 
 2.	Test Scope 
+
 2.1 In scope/ Feature to be tested
 -Validate users are able to input information required to create an account
 	- Validate invalid information are rejected such as invalid email, weak password
